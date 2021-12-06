@@ -17,3 +17,12 @@
 **Thoughts:** Im starting to see the really cool features that can be done with the design aspects for CSS and I havent even really scratched the surface yet. Im looking forward to tomorrows session that will wrap up the Visual Design course and start working on the Applied Accessibility challanges.  
 
 **Link to work:** [Twitter post](https://twitter.com/GioGuarin/status/1467306507406655488?s=20)
+
+### Day 3: December 5rd, 2021
+##### 
+
+**Today's Progress**: Completed both Applied Visual Design and Applied Accessibility today, just 3 more courses until we can get a start on the 5 Web design projects
+
+**Thoughts:** I also started looking more into how Git and Github works, I got it setup for the most part on my Mac which allows me to edit from visual studio. All of this is still pretty new to me so im still learning everything along the way.   
+
+**Link to work:** [Twitter post](https://twitter.com/GioGuarin/status/1467598303223332873?s=20)
